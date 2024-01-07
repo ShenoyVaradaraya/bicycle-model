@@ -25,6 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 ./rl/ppo_bicycle_model.zip
+./rl/logs/
 .git/
 MANIFEST
 
